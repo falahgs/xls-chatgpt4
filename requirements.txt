@@ -1,6 +1,6 @@
 streamlit
 openai
-langchain==0.0.27
+git+https://github.com/langchain-ai/langchain.git
 pandas
 openpyxl
 tabulate==0.9.0
