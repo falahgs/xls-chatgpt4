@@ -5,3 +5,4 @@ pandas
 openpyxl
 tabulate==0.9.0
 streamlit-option-menu
+pydantic==1.8
