@@ -1,0 +1,10 @@
+pip install pipreqs
+pipreqs --encoding=utf8
+
+git init 
+git add .
+git commit -m "Enter your message here"
+git remote add origin https://github.com/falahgs/xls-chat.git
+git push -u origin master
+
+
